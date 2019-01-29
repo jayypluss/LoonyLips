@@ -1,0 +1,22 @@
+[
+	{ 
+	"prompt" : [
+		"a name", 
+		"a thing", 
+		"a feeling", 
+		"a feeling", 
+		"some things"],
+
+	"story" : "Once upon a time a %s ate a %s and felt very %s. It was a %s day for all good %s."
+	},
+
+	{ 
+	"prompt" : [
+		"some things", 
+		"an action", 
+		"an adjective", 
+		"some things"],
+	
+	"story" : "E as %s não podiam %s, seguiam feito %s lunares que são que %s solares."
+	}
+]
